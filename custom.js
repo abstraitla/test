@@ -4,4 +4,3 @@
 
 // Insert any custom theme js here...
 console.log('test');
-$('html').remove();
